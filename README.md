@@ -1,0 +1,1 @@
+# SeminarioSistDist-Evolu-o-dos-Sistemas-Distribu-dos-Da-Computa-o-Centralizada-aos-Sistemas-em-Nuvem
